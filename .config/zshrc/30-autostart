@@ -21,6 +21,6 @@ cat ~/.cache/wal/sequences
 #        echo "Start Hyprland with command Hyprland"
 #    fi
 #fi
-cat /home/chandan/todo.txt
+cat /home/chandan/personalSpace/todo.txt
 echo "Chandan <3"
 
