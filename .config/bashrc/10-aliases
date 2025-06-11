@@ -75,6 +75,4 @@ alias setkb='setxkbmap de;echo "Keyboard set back to de."'
 # ------------------------------------------------------
 # Custom
 # ------------------------------------------------------
-alias realm='/home/chandan/myBrain/scripts/brain_cli.sh'
-alias todo='cat /home/chandan/todo.txt'
-alias project='cat /home/chandan/personalSpace/projects.md'
+alias todo='cat /home/chandan/personalSpace/todo.txt'	
