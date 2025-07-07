@@ -25,11 +25,13 @@
 
     // Modules Left
     "modules-left": [
-"custom/appmenu",
+	"network",
+	"bluetooth",
+        //"custom/appmenu",
         "group/links",
 //"wlr/taskbar",
         //"group/quicklinks",
-"hyprland/window",
+        "hyprland/window",
         "custom/empty"
     ],
 
@@ -42,9 +44,8 @@
     "modules-right": [
         "custom/updates",
         "pulseaudio",
-//"backlight",
-        "bluetooth",
-"network",
+//	"backlight",
+        // "bluetooth",
         "battery", 
         "power-profiles-daemon",
         "group/hardware",
