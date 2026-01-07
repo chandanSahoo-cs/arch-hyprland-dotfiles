@@ -30,6 +30,7 @@
         //"wlr/taskbar",
         "group/quicklinks",
         "hyprland/window",
+		"custom/todo",
         "custom/empty"
     ],
 
