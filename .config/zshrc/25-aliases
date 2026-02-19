@@ -22,9 +22,7 @@ alias cleanup='~/.config/ml4w/scripts/arch/cleanup.sh'
 # -----------------------------------------------------
 # ML4W Apps
 # -----------------------------------------------------
-alias ml4w='flatpak run com.ml4w.welcome'
 alias ml4w-settings='flatpak run com.ml4w.settings'
-alias ml4w-calendar='flatpak run com.ml4w.calendar'
 alias ml4w-hyprland='flatpak run com.ml4w.hyprlandsettings'
 alias ml4w-sidebar='flatpak run com.ml4w.sidebar'
 alias ml4w-options='ml4w-hyprland-setup -m options'
@@ -56,3 +54,9 @@ alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias res1='xrandr --output DisplayPort-0 --mode 2560x1440 --rate 120'
 alias res2='xrandr --output DisplayPort-0 --mode 1920x1080 --rate 120'
 alias setkb='setxkbmap de;echo "Keyboard set back to de."'
+
+# -----------------------------------------------------
+# Custom
+# -----------------------------------------------------
+alias stammer='nvim ~/Imp/stammering-guide.md'
+alias exercise='nvim ~/Imp/exercise.md'

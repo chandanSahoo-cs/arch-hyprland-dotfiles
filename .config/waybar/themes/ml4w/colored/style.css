@@ -3,11 +3,11 @@
  * ----------------------------------------------------- */
 @import '../../../../../.config/waybar/colors.css';
 
-@define-color backgroundlight @inverse_primary ;
-@define-color backgrounddark @inverse_primary ;
-@define-color workspacesbackground1 @inverse_primary ;
+@define-color backgroundlight @on_secondary_fixed_variant;
+@define-color backgrounddark @on_secondary_fixed_variant;
+@define-color workspacesbackground1 @on_secondary_fixed_variant;
 @define-color workspacesbackground2 @on_primary_fixed_variant ;
-@define-color bordercolor @inverse_primary;
+@define-color bordercolor @on_secondary_fixed_variant;
 @define-color textcolor1 #FFFFFF;
 @define-color textcolor2 #FFFFFF;
 @define-color textcolor3 #FFFFFF;

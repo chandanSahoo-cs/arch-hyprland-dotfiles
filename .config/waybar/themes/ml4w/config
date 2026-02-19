@@ -29,8 +29,8 @@
         "group/links",
         //"wlr/taskbar",
         "group/quicklinks",
-        "hyprland/window",
 		"custom/todo",
+        "hyprland/window",
         "custom/empty"
     ],
 
